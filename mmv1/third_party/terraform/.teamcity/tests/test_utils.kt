@@ -8,7 +8,6 @@
 package tests
 
 import builds.AllContextParameters
-import jetbrains.buildServer.BuildProject
 import jetbrains.buildServer.configs.kotlin.BuildType
 import jetbrains.buildServer.configs.kotlin.Project
 import org.junit.Assert.fail
